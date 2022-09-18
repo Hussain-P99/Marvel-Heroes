@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hussain/AndroidStudioProjects/MarvelHeroes/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.1" />
+        <entry key="..\:/Users/Hussain/AndroidStudioProjects/MarvelHeroes/app/src/main/res/drawable/ic_baseline_filter_list_24.xml" value="0.1" />
+        <entry key="..\:/Users/Hussain/AndroidStudioProjects/MarvelHeroes/app/src/main/res/drawable/ic_bookmark.xml" value="0.1635" />
+        <entry key="..\:/Users/Hussain/AndroidStudioProjects/MarvelHeroes/app/src/main/res/drawable/ic_bookmark_idle.xml" value="0.1" />
+        <entry key="..\:/Users/Hussain/AndroidStudioProjects/MarvelHeroes/app/src/main/res/drawable/ic_error_image.xml" value="0.1635" />
+        <entry key="..\:/Users/Hussain/AndroidStudioProjects/MarvelHeroes/app/src/main/res/drawable/ic_placeholder_image.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
